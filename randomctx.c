@@ -1,3 +1,7 @@
+; // https://artfulcode.wordpress.com/
+; // https://github.com/cmovz/
+; // License: use it as you wish, just keep this notice. No liability taken.
+
 #include "randomctx.h"
 #include "sha256.h"
 
