@@ -1,2 +1,2 @@
 # AV-Evasion-Through-Encryption
-This is the code for the article I wrote showing how AVs work and how to bypass them, which shows that Kaspersky is quite broken.
+This is the code for the article at https://artfulcode.wordpress.com/2017/09/25/wtf-is-wrong-with-you-kaspersky/
